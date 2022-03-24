@@ -48,6 +48,6 @@ Wang, David, et al. "Microarray-based Detection and Genotyping of Viral Pathogen
 Other Materials
 ---------------
 
-["Informed Consent for Diagnostic Genetic Testing. Fact Form for Patients." ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) (PDF - 2.8MB)](http://www.michigan.gov/documents/InformedConsent_69182_7.pdf) Société Suisse de Génétique Médicale, Berne, Switzerland, 26 November 2001. (Courtesy of Societe Suisse de Genetique Medicale. Used with permission.)
+["Informed Consent for Diagnostic Genetic Testing. Fact Form for Patients."  (PDF - 2.8MB)](http://www.michigan.gov/documents/InformedConsent_69182_7.pdf) Société Suisse de Génétique Médicale, Berne, Switzerland, 26 November 2001. (Courtesy of Societe Suisse de Genetique Medicale. Used with permission.)
 
 Test Requisition Form. Athena Diagnostics, Worcester, Mass.
