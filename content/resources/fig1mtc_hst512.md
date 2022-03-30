@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a2bb014e-0e23-3cfc-f691-f6b55d7a1d88
 resourcetype: Image
 title: fig1MTC_HST512.jpg
 uid: 5407c572-8eee-ceb2-61ec-205e2fb935b5
